@@ -5,3 +5,4 @@ Cuando el jugador elige la opción correcta pasará a la siguiente pregunta y se
 En caso de elegir la opción válida un cartel indicara que es correcto de lo contrario indicara incorrecto.
 Las preguntas hacen referencia a diversos temas tales como geografía, deportes, entretenimiento,  ciencia y naturaleza.
 
+El juego esta modelado en js y html.
